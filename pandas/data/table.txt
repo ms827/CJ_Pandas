@@ -1,0 +1,8 @@
+This is a header that discusses the table file to show space in a generic table file
+
+index  name     occupation
+1    Alice    Salesman
+2    Bob      Engineer
+3    Charlie  Janitor
+
+This is a footer because your boss does not understand data files
